@@ -20,7 +20,7 @@ Our framework introduces a multi-stage approach for vector data management:
 ## 3. Installation
 ```bash
 pip install -r requirements.txt
-
+```
 ## 4. Workflow
 Preprocessing: Run Resampling.py to normalize the input curves.
 
